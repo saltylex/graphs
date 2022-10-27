@@ -1,2 +1,2 @@
 # graphs
-graph implementation + algorithms from scratch.
+(TO BE ADDED UNTIL: 28/10)
